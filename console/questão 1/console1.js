@@ -1,14 +1,11 @@
+const escola = "Paulo Petrola";
+const série = "3°";
+const turma = "Informática";
+const idade = "17";
+const nome = "Ariely";
 
-
-const escola="p petrola"
-const série="4°"
-const turma="guia"
-const idade="73839"
-const nome="ariely"
-
-
-console.log("p petrola");
-console.log("4°");
-console.log("guia");
-console.log("73839");
-console.log("ariely");
+console.log("Nome:", nome);
+console.log("Idade: ", idade);
+console.log("Escola:", escola);
+console.log("Série:", série);
+console.log("Turma:", turma);
